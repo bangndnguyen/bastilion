@@ -2037,6 +2037,15 @@ base@^0.11.1:
     mixin-deep "^1.2.0"
     pascalcase "^0.1.1"
 
+bastilion@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/bastilion/-/bastilion-1.0.3.tgz#ce78bca8b612c910b668c33e3dea4fe480e0684f"
+  integrity sha512-0w7Grzy6FLqG+a305SJxFcg6kgX213xHv5QTOnkLYB27cnfwoHV2PtKztd/o+ouIFh4HQfuRls2Cf90Vt1/4/Q==
+  dependencies:
+    "@emotion/core" "^10.0.22"
+    emotion "^10.0.23"
+    emotion-theming "^10.0.19"
+
 batch@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/batch/-/batch-0.6.1.tgz#dc34314f4e679318093fc760272525f94bf25c16"

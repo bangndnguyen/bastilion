@@ -1,6 +1,6 @@
 {
   "name": "bastilion",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React UI library for personal use",
   "author": "bangndnguyen",
   "license": "MIT",
@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "@emotion/core": "^10.0.22",
+    "bastilion": "^1.0.3",
     "emotion": "^10.0.23",
     "emotion-theming": "^10.0.19"
   },
